@@ -6,17 +6,19 @@
 
 2) Tech Stack
 
-💻 Microsoft Excel: Used for initial data cleaning, preparation, and structuring.
+This entire project was executed using advanced features within Microsoft Excel:
 
-📊 Power BI Desktop: For data modeling, DAX measures, and creating visual dashboards.
+💻 Microsoft Excel: The single platform used for data cleaning, calculation, modeling, and final visualization.
 
-🧠 DAX (Data Analysis Expressions): Calculated KPIs such as Total Sales, Average Sales, Number of Items, and Average Rating.
+📊 Pivot Tables & Slicers: Utilized extensively to manage datasets, enable interactive filtering of the dashboard (e.g., by Outlet Size and Outlet Location), and power all visual elements.
 
-🔄 Power Query (ETL): Performed data transformation and ensured data quality before loading into Power BI.
+🧮 Formulas & Logic: Employed for calculating core business metrics — Total Sales, Average Sales, Number of Items, and Average Rating — and developing conditional logic for insights.
+
+🎨 Custom Charting & Formatting: Used various chart types (Doughnut, Area, Bar) and advanced formatting to create a professional, engaging, single-screen dashboard view.
 
 3) Data Source
 
-🌐 Source: Blinkit Sales Data (Hypothetical/Public).
+🌐 Source: Blinkit Sales Data: https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg
 
 📈 Scope: Includes sales transactions with outlet details (size, location, year) and product attributes (item type, fat content) analyzed against core metrics.
 
@@ -61,4 +63,4 @@
 
  7)📸 Dashboard Preview
 
-🖼️ (Insert your dashboard screenshot here)
+🖼️https://github.com/SaniyaPathan12332/blinKit-Sales-Dashboard-Excel/blob/main/blinKit%20Sales%20Dashboard.png

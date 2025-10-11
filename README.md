@@ -1,4 +1,4 @@
-⚡ Blinkit Sales Analytics: Power BI Dashboard for Quick Commerce Performance
+⚡ Blinkit Sales Analytics: Interactive Business Dashboard (Excel Project)
 
 1) Short Description / Purpose
  An interactive business intelligence dashboard created in Power BI, with data pre-processed in Excel, to analyze Blinkit’s sales performance, customer satisfaction, and inventory distribution.
